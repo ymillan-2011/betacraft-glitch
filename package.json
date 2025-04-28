@@ -1,0 +1,13 @@
+{
+  "name": "eaglercraft-server",
+  "version": "0.0.1",
+  "description": "Welcome to your Eaglercraft server!",
+  "main": "server.js",
+  "scripts": {
+    "start": "chmod +x main.sh && ./main.sh"
+  },
+  "dependencies": {},
+  "engines": {
+    "node": "14.x"
+  }
+}
