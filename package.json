@@ -4,7 +4,7 @@
   "description": "Welcome to your Eaglercraft server!",
   "main": "server.js",
   "scripts": {
-    "start": "chmod +x main.sh && ./main.sh"
+    "start": "chmod +x main.sh && ./run_unix.sh"
   },
   "dependencies": {},
   "engines": {
